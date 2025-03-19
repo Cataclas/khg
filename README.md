@@ -9,7 +9,12 @@ Este es un proyecto simple en **HTML, CSS y JavaScript** que permite agregar nom
 - Ocultar la lista una vez se realice el sorteo.
 
 ## 📸 Capturas de Pantalla
-_Agrega aquí imágenes del proyecto si deseas._
+
+![image](https://github.com/user-attachments/assets/d290ab27-3255-4bfb-9010-127a1158f88e)
+
+![image](https://github.com/user-attachments/assets/f7d9f8c3-b099-4c46-bf5d-2019d390967e)
+
+
 
 ## 🛠 Tecnologías Utilizadas
 - **HTML** → Estructura de la aplicación.
@@ -22,5 +27,3 @@ _Agrega aquí imágenes del proyecto si deseas._
 3. **Repetir el paso 2** hasta agregar todos los nombres.
 4. **Hacer clic en "Sortear amigo"** para obtener un nombre aleatorio.
 5. **Se ocultará la lista** y se mostrará el amigo secreto seleccionado.
-
-## 📂 Estructura del Proyecto
